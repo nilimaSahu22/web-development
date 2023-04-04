@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather',serif;
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Monserrat',sans-serif;
+}
+h2{
+    font-family: 'Monserrat',sans-serif;
+}
+.top{
+    background-color:#E4F9F5;
+    padding: 20px;
+    position: relative;
+    padding-top:100px ;
+
+}
+.middle{
+    background-color: red;
+    border: 20px solid black;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    margin: 0px 200px 0px 250px
+}
+.bottom{
+    background-color: yellow;
+    border: 10px solid black;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    margin: 0px 0px 0px 525px;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px ;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}

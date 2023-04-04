@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>nilima_sahu</title>
+   <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!--<body style="background-color:#EAF6F6;"> Changing background color using inline css-->
+    <table cellspacing ="20" >
+        <tbody>
+
+            <tr> <td><img src="nili 40 kb.jpg" alt ="nilima picture" width ="200" height ="200"></td>
+           <td>  <h1>Nilima Sahu </h1>
+                <p>
+                    <e>Founder of <strong>Audacious</strong>.</e>
+                </p>
+                <p>I am a student and a Developer.</p>
+                <hr>
+            </td>
+            </tr>
+            </tbody>
+    </table>
+    <h3>Books and Teachings</h3>
+    <ul>
+        <li>Let's C++</li>
+        <li>Complete Refrence To Java</li>
+        <li>Python Projects</li>
+    </ul>
+    <hr>
+    <h3>My Hobbbies</h3>
+    <ol>
+        <li><a href = "https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&ab_channel=CodeWithHarry " target="_blank">c++</a></li>
+        <li>hobby2</li>
+        <li>hobby3</li>
+    </ol>
+    <a href ="contact.html">Contact Me</a>
+    <h3 style="color: red;">aman yadav</h3>
+    <hr>
+    <h3>Work Experience</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2010-2013</td>
+                <td>developer at google</td>
+            </tr> 
+            <tr>
+                <td>2010</td>
+                <td>developer at microsoft</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3><a href ="skills.html"> My skills</a></h3>
+</body>
+
+</html>
