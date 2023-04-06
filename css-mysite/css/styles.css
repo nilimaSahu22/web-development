@@ -4,6 +4,7 @@ body{
     font-family:'Merriweather',serif;
 }
 h1{
+    font-size: 562.54%;
     margin: 0;
     font-family: 'Sacramento', cursive;
 }
@@ -21,20 +22,10 @@ h2{
 
 }
 .middle{
-    background-color: red;
-    border: 20px solid black;
-    padding: 20px;
-    height: 200px;
-    width: 200px;
-    margin: 0px 200px 0px 250px
+    background-color:#E4F9F5 ;
 }
 .bottom{
-    background-color: yellow;
-    border: 10px solid black;
-    padding: 10px;
-    height: 200px;
-    width: 200px;
-    margin: 0px 0px 0px 525px;
+    background-color:#E4F9F5 ;
 }
 .pro{
     text-decoration: underline;
